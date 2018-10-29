@@ -23,3 +23,10 @@ Generate daily report from data instructions sent by various clients to JP Morga
       S – Sell – incoming
 - Agreed Fx is the foreign exchange rate with respect to USD that was agreed
 - Units: Number of shares to be bought or sold
+
+## Requirements
+
+- Java 8 
+- Maven
+
+
